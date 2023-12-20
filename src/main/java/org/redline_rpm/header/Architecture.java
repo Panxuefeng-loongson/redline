@@ -14,6 +14,7 @@ public enum Architecture {
 	IA64,
 	SPARC64,
 	MIPSEL,
+	LOONGARCH64,
 	ARM,
 	MK68KMINT,
 	S390,
